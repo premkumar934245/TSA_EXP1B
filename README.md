@@ -1,6 +1,5 @@
 # Ex.No: 1B                     CONVERSION OF NON STATIONARY TO STATIONARY DATA
 # Date: 9.2.2026
-
 ### AIM:
 To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
 ### ALGORITHM:
@@ -104,10 +103,6 @@ plt.show()
 ```
 ### OUTPUT:
 <img width="1648" height="277" alt="image" src="https://github.com/user-attachments/assets/e09bb2cd-7e83-4bbc-b5ba-faed67ec1e4e" />
-
-
-
-
 ### RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
 data.

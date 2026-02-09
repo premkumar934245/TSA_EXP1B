@@ -105,11 +105,16 @@ plt.show()
 ### OUTPUT:
 
 
-REGULAR DIFFERENCING:<img width="1697" height="277" alt="image" src="https://github.com/user-attachments/assets/a8e7acfc-9325-452c-9382-58829706a6a7" />
-SEASONAL ADJUSTMENT:<img width="1668" height="287" alt="image" src="https://github.com/user-attachments/assets/bb7468a6-0925-4090-b1eb-08c27a27dedb" />
-LOG TRANSFORMATION:<img width="1695" height="278" alt="image" src="https://github.com/user-attachments/assets/0b411452-7769-4872-8f25-54e6f596c069" />
-LOG TRANSFORMATION AND REGULAR DIFFERENCING:<img width="1690" height="280" alt="image" src="https://github.com/user-attachments/assets/2b5a4307-f8be-4c2a-a59b-8af48ddd5e87" />
-LOG TRANSFORMATION AND REGULAR AND LOGICAL :<img width="1691" height="279" alt="Screenshot 2026-02-09 133001" src="https://github.com/user-attachments/assets/2c4dc3f3-2258-4711-b66d-33d86d4eaa32" />
+REGULAR DIFFERENCING:
+<img width="1697" height="277" alt="image" src="https://github.com/user-attachments/assets/a8e7acfc-9325-452c-9382-58829706a6a7" />
+SEASONAL ADJUSTMENT:
+<img width="1668" height="287" alt="image" src="https://github.com/user-attachments/assets/bb7468a6-0925-4090-b1eb-08c27a27dedb" />
+LOG TRANSFORMATION:
+<img width="1695" height="278" alt="image" src="https://github.com/user-attachments/assets/0b411452-7769-4872-8f25-54e6f596c069" />
+LOG TRANSFORMATION AND REGULAR DIFFERENCING:
+<img width="1690" height="280" alt="image" src="https://github.com/user-attachments/assets/2b5a4307-f8be-4c2a-a59b-8af48ddd5e87" />
+LOG TRANSFORMATION AND REGULAR AND LOGICAL :
+<img width="1691" height="279" alt="Screenshot 2026-02-09 133001" src="https://github.com/user-attachments/assets/2c4dc3f3-2258-4711-b66d-33d86d4eaa32" />
 ### RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
 data.

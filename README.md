@@ -103,6 +103,16 @@ plt.show()
 ```
 ### OUTPUT:
 <img width="1648" height="277" alt="image" src="https://github.com/user-attachments/assets/e09bb2cd-7e83-4bbc-b5ba-faed67ec1e4e" />
+<img width="1691" height="279" alt="Screenshot 2026-02-09 133001" src="https://github.com/user-attachments/assets/854465de-04bf-49eb-abd6-7f77de688cd0" />
+<img width="1649" height="278" alt="Screenshot 2026-02-09 133606" src="https://github.com/user-attachments/assets/b0ee78f0-e7c9-47ea-adfa-ff63cbbf69a4" />
+<img width="1695" height="279" alt="Screenshot 2026-02-09 132657" src="https://github.com/user-attachments/assets/1ef93567-e830-4534-b4fa-cb27369ff976" />
+<img width="1699" height="276" alt="Screenshot 2026-02-09 134034" src="https://github.com/user-attachments/assets/f5cdd089-193b-4fff-8041-7ffb30eda525" />
+<img width="1688" height="267" alt="Screenshot 2026-02-09 134204" src="https://github.com/user-attachments/assets/dcec111d-0ee0-48ff-93f9-600d5f12b66a" />
+
+
+
+
+
 ### RESULT:
 Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
 data.
